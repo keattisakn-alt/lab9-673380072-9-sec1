@@ -1,0 +1,16 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+*.log
+.DS_Store
+
+# Lab documentation and reports (kept locally for submission, not pushed to repo)
+picture/
+README.md
+Study_Notes.md
+report/
